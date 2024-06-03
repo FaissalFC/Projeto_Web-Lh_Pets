@@ -1,0 +1,6 @@
+/Users/faissal/Downloads/Projeto_Web-Lh_Pets_Alunos/obj/Debug/net5.0/Projeto_Web_Lh_Pets_versão_1.csproj.AssemblyReference.cache
+/Users/faissal/Downloads/Projeto_Web-Lh_Pets_Alunos/obj/Debug/net5.0/Projeto_Web_Lh_Pets_versão_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/faissal/Downloads/Projeto_Web-Lh_Pets_Alunos/obj/Debug/net5.0/Projeto_Web_Lh_Pets_versão_1.AssemblyInfoInputs.cache
+/Users/faissal/Downloads/Projeto_Web-Lh_Pets_Alunos/obj/Debug/net5.0/Projeto_Web_Lh_Pets_versão_1.AssemblyInfo.cs
+/Users/faissal/Downloads/Projeto_Web-Lh_Pets_Alunos/obj/Debug/net5.0/Projeto_Web_Lh_Pets_versão_1.csproj.CoreCompileInputs.cache
+/Users/faissal/Downloads/Projeto_Web-Lh_Pets_Alunos/obj/Debug/net5.0/Projeto_Web_Lh_Pets_versão_1.MvcApplicationPartsAssemblyInfo.cache
